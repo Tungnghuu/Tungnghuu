@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Tungnghuu or Tung.
-- 👀 I’m interested in generative AI.
-- 🌱 I’m currently learning Computer Science major at University of Engineering and Technology - Vietnam National University.
-- 💞️ I’m looking to collaborate with experienced developers.
-- 📫 How to reach me: via email (nh.tung3344@gmail.com)
-- 😄 Pronouns: he/him
+
